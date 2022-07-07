@@ -1,0 +1,17 @@
+h1{
+	color:red;
+	border:1px solid black;
+	}
+	
+.pad10{
+	
+	padding:10px;
+}
+.pad20{
+	
+	padding:20px;
+}
+.bgcolor{
+	
+	background-color: #d6de2f;
+}
